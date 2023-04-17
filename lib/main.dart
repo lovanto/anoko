@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       home: AnimatedSplashScreen(
-          splash: Image.network('https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flutter-512.png'),
+          splash: Image.network('https://storage.googleapis.com/cms-storage-bucket/4cdf1c5482cd30174cfe.png'),
           duration: 2000,
           pageTransitionType: PageTransitionType.fade,
           backgroundColor: Colors.white,
